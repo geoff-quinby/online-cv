@@ -64,7 +64,7 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: Digital Media - Computer Science Minor
+      - degree: Digital Media (BA) / Computer Science (Minor)
         university: University of Central Florida
         time: Graduated 2011
 
@@ -91,10 +91,7 @@ skills:
       level: 75
 
     - name: DevOps
-      level: 60
-
-    - name: UI/UX Design
-      level: 40
+      level: 50
 
 experiences:
     title: Professional Highlights
@@ -102,90 +99,85 @@ experiences:
       - role: Senior Software Engineer
         time: Mar 2022 - Nov 2022
         company: SkySpecs, Ann Arbor MI
+        skills: [Node, Express, Apollo, Postgres, React, AWS, Confluent, Terraform]
         details: |
-          Key Contributor to cutting edge Wind & Solar farm Asset Management software. Designed & developed
-          solutions for Federated Apollo GraphQL microservice infrastructure. Full-stack SDLC with work in 
-          React, Node, and Terraform. Developed, configured, and launched company-first Kafka & Confluent Eventing system.
-            - Primary Stack: **Node, Express, Apollo, Postgres, React, AWS, Confluent**
+          Key Contributor to cutting edge Wind & Solar farm Asset Management software. Designed & developed solutions 
+          for Federated Apollo GraphQL microservice infrastructure. Full-stack SDLC with work in React, Node, and Terraform.
+          Developed, configured, and launched company-first Kafka & Confluent Eventing system.
       - role: Software Engineer
         time: Feb 2021 - Mar 2022
         company: SOMA Global, Tampa FL
+        skills: [Golang, Python, MySQL, MongoDB, React, AngularJS]
         details: |
           Developed and maintained industry-leading “Public Safety as a Service” platform, making Computer Aided Dispatch, 
           Records Management, and Personnel administration available in the Cloud via AWS. Developed cutting-edge 
           solutions in multiple ecosystems, leveraging RESTful API services, Websocket notifications, 
           and robust pub/sub messaging systems. Mentored Junior developers and played a key role in developing 
           coding standards and engineering education, as well as streamlining development and review procedures.
-            - Primary Stack: **Golang, Python, MySQL, MongoDB, React, AngularJS**
-            - FTE, Remote
       - role: SaaS Engineer
         time: Mar 2020 - Feb 2021
         company: Mediagistic, Tampa FL
+        skills: [Python, Django, MySQL, React]
         details: |
           Lead Engineer for greenfield advertising software platform with data-driven campaign management.
-            - Primary Stack: **Python / Django Rest, MySQL, React**
-            - Contract, Partial Remote
       - role: Full Stack Developer
         time: Jan 2019 - Feb 2020
         company: Perch Security, Tampa FL
+        skills: [Python, Django, Postgres, Elasticsearch, Kibana, React]
         details: |
           Fast paced, self-managed startup environment. Maintained a large-scale, co-managed threat detection 
           SaaS platform that parsed terabytes of network traffic and log data to analyze and alert on security threats.
           Developed customized microservice built for integrating with third party APIs for several key security 
           partners such as Cisco, ConnectWise, etc. Hosted on AWS Beanstalk with Elasticsearch.
-            - Primary Stack: **Python / Django Rest, Postgres, Elasticsearch / Kibana, React**
-            - FTE, Partial Remote
       - role: Scientific Developer
         time: Jan 2018 - Dec 2018
         company: Moffitt Cancer Center, Tampa FL
+        skills: [Python, Django, ExtJS, MySQL]
         details: |
           Developer for Research & IT department, maintaining several clinical & research applications. Maintained
           critical platform for physicians and administrators to record & aggregate data for cancer research. Spearheaded
           development for software to automate & facilitate form submission to national database.
-            - Primary Stack: **Python / Django REST, ExtJS, MySQL**
-            - Contract, On-site
       - role: Developer
         time: Oct 2016 - Oct 2017
         company: Florida Virtual School, Orlando FL
+        skills: [Python, Django, PHP, Azure]
         details: |
           Revamp defunct reporting & analytics system for customer billing & auditing. Lead developer for 
           Cloud migration of industry leading LTI compliant courseware provisioning system.
-            - Primary Stack: **Python / Django, PHP, Azure**
-            - Contract, Remote
       - role: Web Developer / Software Architect
         time: Sep 2013 - Aug 2016
         company: BookIt, Orlando FL
+        skills: [PHP, Zend Framework, MySQL, Satis, HTML, CSS]
         details: |
           Developer for Booking & Payments Team of Online Travel Agency & Vacation Package website. Promoted to
           Software Architect to design & develop brand-new Microservice-oriented system libraries & product roadmaps.
-            - Primary Stack: **PHP / Zend Framework, MySQL, Satis, HTML / CSS
 
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#projects:
+#    title: Projects
+#    intro: >
+#      You can list your side projects in this
+#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#    assignments:
+#      - title: Velocity
+#        link: "#hook"
+#        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+#
+#      - title: DevStudio
+#        link: "#"
+#        tagline: "A responsive website template designed to help web developers/designers market their services."
+#
+#      - title: Tempo
+#        link: "#"
+#        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#
+#      - title: Atom
+#        link: "#"
+#        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#
+#      - title: Delta
+#        link: "#"
+#        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

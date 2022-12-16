@@ -23,6 +23,14 @@
 
     </div><!--//meta-->
 
+    {% if experience.skills %}
+    <div class="badges">
+      {% for badge in experience.skills %}
+      <span class="badge">{{ badge }}</span>
+      {% endfor %}
+    </div>
+    {% endif %}
+
     {% if experience.details %}
     <div class="details">
       {{ experience.details | markdownify }}
@@ -34,4 +42,3 @@
 
 </section><!--//section-->
 {% endif %}
-

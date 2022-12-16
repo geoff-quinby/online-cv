@@ -264,6 +264,16 @@ p {
   }
 }
 
+.experiences-section {
+  .badges {
+    padding-bottom: 10px;
+  }
+  .badge {
+    background: darken($theme-color, 15%);
+    margin-right: 2px;
+  }
+}
+
 .footer {
   padding-top: 30px;
   .copyright {
