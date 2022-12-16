@@ -14,8 +14,8 @@ sidebar:
     # Sidebar links
     email: gequinby@gmail.com
 #    phone: 012 345 6789
-    timezone: America/New York
-    citizenship: USC
+    timezone: Eastern (UTC-05:00)
+    citizenship: United States
 #    website: blog.webjeda.com #do not add http://
     linkedin: geoff-quinby
     github: geoff-quinby
@@ -64,32 +64,37 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: BS Digital Media - Interactive Systems
+      - degree: Digital Media - Computer Science Minor
         university: University of Central Florida
         time: Graduated 2011
-        details: Computer Science Minor
 
 skills:
   title: Skills &amp; Proficiency
 
   toolset:
     - name: Python & Django
-      level: 98%
+      level: 98
 
-    - name: Javascript & jQuery
-      level: 98%
+    - name: Javascript & Node
+      level: 95
 
-    - name: Angular
-      level: 98%
+    - name: React
+      level: 90
 
-    - name: HTML5 & CSS
-      level: 95%
+    - name: Golang
+      level: 80
 
-    - name: Ruby on Rails
-      level: 85%
+    - name: SQL
+      level: 80
 
-    - name: Sketch & Photoshop
-      level: 60%
+    - name: AWS Systems
+      level: 75
+
+    - name: DevOps
+      level: 60
+
+    - name: UI/UX Design
+      level: 40
 
 experiences:
     title: Professional Highlights
@@ -102,7 +107,6 @@ experiences:
           solutions for Federated Apollo GraphQL microservice infrastructure. Full-stack SDLC with work in 
           React, Node, and Terraform. Developed, configured, and launched company-first Kafka & Confluent Eventing system.
             - Primary Stack: **Node, Express, Apollo, Postgres, React, AWS, Confluent**
-            - FTE, Remote
       - role: Software Engineer
         time: Feb 2021 - Mar 2022
         company: SOMA Global, Tampa FL

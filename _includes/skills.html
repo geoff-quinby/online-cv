@@ -17,8 +17,8 @@
 
       <h3 class="level-title">{{ skill.name }}</h3>
 
-      <div class="level-bar">
-        <div class="level-bar-inner" data-level="{{ skill.level }}">
+      <div class="level-bar progress">
+        <div class="level-bar-inner progress-bar" style="width:{{ skill.level }}%" role="progressbar" aria-valuenow="{{ skill.level }}" aria-valuemin="0" aria-valuemax="100">
         </div>
       </div><!--//level-bar-->
 
