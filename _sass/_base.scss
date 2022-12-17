@@ -48,12 +48,11 @@ p {
   order: 2;
   background: $theme-color;
   color: #fff;
-  a {
+  span a {
     color: #fff;
   }
   .profile-container {
     padding: 30px;
-    //background: darken($theme-color, 10%);
     background: rgba(0, 0, 0, 0.2);
     text-align: center;
     color: #fff;
